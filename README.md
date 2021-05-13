@@ -1,4 +1,4 @@
-# https://play.mcendercraft.net
+# https://mc100.github.io
 a NEW minecraft game based on the end!
 
 relese date:tbd
