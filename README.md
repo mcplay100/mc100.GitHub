@@ -1,4 +1,4 @@
-# https://playmc.mcendercraft.net
+# https://play.mcendercraft.net
 a NEW minecraft game based on the end!
 
 relese date:tbd
